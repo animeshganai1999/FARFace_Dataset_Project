@@ -1,0 +1,9 @@
+
+ACCORDING TO KERAS TUNER
+1. best_lr	best_concat_weight	best_model_weight	(10 rounds and 10 epochs)
+1. 0.0001	0.526355517963271	0.09457437706109717
+
+
+2. best_lr	best_concat_weight	best_model_weight	(20 rounds and 20 epochs)
+2. 5e-05	0.00383738127808686	0.2193376582299994
+
